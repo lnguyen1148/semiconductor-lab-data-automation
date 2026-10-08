@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/*.log
+
+# Large/generated data
+data/raw/*.csv
+data/clean/*.csv
+
+# Generated outputs
+plots/*.png
+reports/*.md
